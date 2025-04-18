@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import React from 'react'
 
+
+
 interface Blog{
   id:number
   title:string
