@@ -13,3 +13,4 @@ const BlogDetailPage = async ({params}:{params:Promise<{id:number}>}) => {
 }
 
 export default BlogDetailPage
+
