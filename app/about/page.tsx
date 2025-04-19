@@ -3,7 +3,9 @@ import React from 'react'
 
 
 export const metadata:Metadata = {
-  title:'About',
+  title:{
+    absolute:'About Next.js'
+  },
   description:'About pge for learning website'
 }
 const AboutPage = () => {
